@@ -1,6 +1,6 @@
-# FirstHibernateProject
 
-# First Hibernate Project
+
+ Hibernate Project
 
 A simple introductory Java project demonstrating core Hibernate ORM concepts: entity mapping, CRUD operations, SessionFactory usage, and MySQL integration. Perfect for beginners learning persistence in Java apps.
 
